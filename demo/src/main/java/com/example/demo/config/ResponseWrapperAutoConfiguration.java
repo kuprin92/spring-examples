@@ -1,4 +1,4 @@
-package com.example.demo.confin;
+package com.example.demo.config;
 
 import com.example.demo.util.IWrapperService;
 import com.example.demo.util.ResponseWrapperAdvice;

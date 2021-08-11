@@ -1,4 +1,4 @@
-package com.example.demo.confin;
+package com.example.demo.config;
 
 import feign.Logger;
 import feign.Request;
